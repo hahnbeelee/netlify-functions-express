@@ -19,6 +19,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
+        
         <GitHubCorner url={'https://github.com/netlify-labs/netlify-functions-express'} />
         <header className="App-header">
 
@@ -28,7 +29,7 @@ class App extends Component {
             <img src={expressLogo} className="express-logo" alt="logo" />
 
           </div>
-          <h1 className="App-title">How to use express.js with Netlify functions</h1>
+          <h1 className="App-title">How to use eYESSSSxpress.js with Netlify functions</h1>
         </header>
 
         <p className="App-intro">
